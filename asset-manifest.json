@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/polsazeh/static/css/main.321e6e2f.chunk.css",
+    "main.js": "/polsazeh/static/js/main.dbbd4395.chunk.js",
+    "main.js.map": "/polsazeh/static/js/main.dbbd4395.chunk.js.map",
+    "runtime-main.js": "/polsazeh/static/js/runtime-main.320273dd.js",
+    "runtime-main.js.map": "/polsazeh/static/js/runtime-main.320273dd.js.map",
+    "static/js/2.4a65c416.chunk.js": "/polsazeh/static/js/2.4a65c416.chunk.js",
+    "static/js/2.4a65c416.chunk.js.map": "/polsazeh/static/js/2.4a65c416.chunk.js.map",
+    "index.html": "/polsazeh/index.html",
+    "precache-manifest.864ceb4406213cf62dd5f5b4771b1f8a.js": "/polsazeh/precache-manifest.864ceb4406213cf62dd5f5b4771b1f8a.js",
+    "service-worker.js": "/polsazeh/service-worker.js",
+    "static/css/main.321e6e2f.chunk.css.map": "/polsazeh/static/css/main.321e6e2f.chunk.css.map",
+    "static/js/2.4a65c416.chunk.js.LICENSE.txt": "/polsazeh/static/js/2.4a65c416.chunk.js.LICENSE.txt",
+    "static/media/test.jpg": "/polsazeh/static/media/test.6ed3dff1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.320273dd.js",
+    "static/js/2.4a65c416.chunk.js",
+    "static/css/main.321e6e2f.chunk.css",
+    "static/js/main.dbbd4395.chunk.js"
+  ]
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["project.css"],"names":[],"mappings":"AAAA,cACI,UAAY,CACZ,sBAAwB,CACxB,kBACJ,CAEA,oBACI,SAAY,CACZ,cACJ","file":"main.321e6e2f.chunk.css","sourcesContent":[".project-card {\r\n    opacity: 0.6;\r\n    transition: opacity 0.5s;\r\n    border-radius: 1rem;\r\n}\r\n\r\n.project-card:hover{\r\n    opacity: 1.0;\r\n    cursor: pointer;\r\n}"]}
